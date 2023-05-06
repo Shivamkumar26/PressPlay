@@ -1,9 +1,36 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# PressPlay 🔊
+
+PressPlay is a news website built with `ReactJS and News API`. It provides live news category-wise like **Health, Technology, Science, Sports, General, Entertainment, etc.** 
+
+The site is a reliable and user-friendly platform to stay informed about current news and events.
+
+
+### 🛑 Website is not live because [NewsAPI](https://newsapi.org/) is paid but you can clone this repo and run in your local environment.
+
+## 📽 Demo Video - 
+
+
+
+## ⚒ Technology Used
+- Javascript
+- Axios (Interact with NewsAPI)
+- ReactJS
+- Bootstrap (UI)
+
+## ▶ Concepts Used
+- States in ReactJS
+- Links and Routes
+- Fetching Data from Api
+- Bootstrap for UI
+
+---
+---
+## 👶 Beginner with ReactJs ? Read these steps 👇
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -69,7 +96,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# PressPlay
-PressPlay is a news website built with ReactJS and News API provides live news from various sections like Health, Technology, Science, Sports, Entertainment, etc. The site is a reliable and user-friendly platform to stay informed about current events and trends.
->>>>>>> origin/main
+
+## Thankyou!! 👐
